@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="mailto:haarshalgharat@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-harshal.d.gharat-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-haarshalgharat-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/harshaldgharat">
     <img src="https://img.shields.io/badge/LinkedIn-harshaldgharat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
