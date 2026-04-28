@@ -7,7 +7,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=7ECFFF&center=true&vCenter=true&width=700&lines=🚀+Building+pipelines+that+ship+80%25+faster;🔐+Shifting+security+left+with+SonarQube+%2B+Trivy;☁️+Deploying+fault-tolerant+infra+on+AWS+EKS;⚙️+GitOps+%7C+Zero-downtime+%7C+Production-grade)](https://git.io/typing-svg)
 
 <p align="center">
-  <a href="mailto:harshal.d.gharat@gmail.com">
+  <a href="mailto:haarshalgharat@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-harshal.d.gharat-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/harshaldgharat">
@@ -265,7 +265,7 @@ Internet ──► Route53 ──► External ALB
 
 | 📬 | 🔗 |
 |:---|:---|
-| 📧 Email | [harshal.d.gharat@gmail.com](mailto:harshal.d.gharat@gmail.com) |
+| 📧 Email | [haarshalgharat@gmail.com](mailto:haarshalgharat@gmail.com) |
 | 💼 LinkedIn | [linkedin.com/in/harshaldgharat](https://linkedin.com/in/harshaldgharat) |
 | 🐙 GitHub | [github.com/harshal019](https://github.com/harshal019) |
 | 🌐 Portfolio | [portfolio.harshalgharat.site](http://portfolio.harshalgharat.site) |
